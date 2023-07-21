@@ -1,0 +1,46 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Mango",
+      "price": "200"
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "price": "230"
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "price": "600"
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "red",
+      "quantity": "5",
+      "price": "20"
+    },
+    {
+      "id": 2,
+      "name": "brown",
+      "quantity": "15",
+      "price": "20"
+    },
+    {
+      "name": "yellow",
+      "quantity": "150",
+      "price": "90",
+      "id": 3
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "model": "Jeep",
+      "year": "2020"
+    }
+  ]
+}
